@@ -28,9 +28,12 @@ SO THAT our own site is optimized for search engines
 3. Updated the stylesheet to use the new semantic elements
 4. Added alt text for images
 
-## Screenshot
+## Usage
 
 ![Horiseon Website!](./assets/images/horiseon-website-screenshot.png "Horiseon Website")
+
+### URL
+https://bhatj.github.io/horiseon-website/
 
 ## License
 N/A
